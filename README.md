@@ -7,6 +7,7 @@ How to detect objects in an image using the YOLO deep-learning framework is cons
 Finally, you will know how to associate regions in a camera image with Lidar points in 3D space.
 
 <img src="images/course_code_structure.png" width="779" height="414" />
+<img src="example_pic.png" width="290" height="290" />
 
 In this final project, the missing parts in the schematic have been implemented. It contains the four major tasks: 
 1. First, a way to match 3D objects over time by using keypoint correspondences is developed. 
